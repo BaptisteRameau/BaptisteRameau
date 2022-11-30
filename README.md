@@ -70,5 +70,4 @@ You can contact me here :
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaptisteRameau">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaptisteRameau&theme=vue">
 </p>
